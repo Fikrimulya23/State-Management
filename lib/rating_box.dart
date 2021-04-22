@@ -48,7 +48,9 @@ class _RatingBoxState extends State<RatingBox> {
                   )),
             color: Colors.red[500],
             iconSize: _size,
-            onPressed: () {},
+            onPressed: () {
+              _setRatingAsOne();
+            },
           ),
         ),
         Container(
@@ -65,7 +67,9 @@ class _RatingBoxState extends State<RatingBox> {
                   )),
             color: Colors.red[500],
             iconSize: _size,
-            onPressed: () {},
+            onPressed: () {
+              _setRatingAsTwo();
+            },
           ),
         ),
         Container(
@@ -82,7 +86,9 @@ class _RatingBoxState extends State<RatingBox> {
                   )),
             color: Colors.red[500],
             iconSize: _size,
-            onPressed: () {},
+            onPressed: () {
+              _setRatingAsThree();
+            },
           ),
         ),
       ],

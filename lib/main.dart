@@ -45,6 +45,26 @@ class MyHomePage extends StatelessWidget {
                 description: "Baju Kaos",
                 price: 75000,
                 image: "assets/baju3.jpg"),
+            ProductBox(
+                name: "Kaos",
+                description: "Baju Kaos",
+                price: 75000,
+                image: "assets/baju3.jpg"),
+            ProductBox(
+                name: "Kaos",
+                description: "Baju Kaos",
+                price: 75000,
+                image: "assets/baju3.jpg"),
+            ProductBox(
+                name: "Kaos",
+                description: "Baju Kaos",
+                price: 75000,
+                image: "assets/baju3.jpg"),
+            ProductBox(
+                name: "Kaos",
+                description: "Baju Kaos",
+                price: 75000,
+                image: "assets/baju3.jpg"),
             /* ProductBox(
                 name: "Tablet",
                 description:
